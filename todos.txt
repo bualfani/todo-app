@@ -1,5 +1,6 @@
 Eat
-Buy Chicken
+Chicken
+ChickenBuy Chicken
 Cook Food
 Clean Garage
 Play Guitar
